@@ -1,0 +1,11 @@
+# Ignorar PDFs
+*.pdf
+
+# Ignorar archivos FASTA
+*.fasta
+*.fa
+
+# Ignorar CSV, TSV y TXT
+*.csv
+*.tsv
+*.txt
